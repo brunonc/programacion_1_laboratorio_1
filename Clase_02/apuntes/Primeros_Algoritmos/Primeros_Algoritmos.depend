@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521488755 source:/home/bruno/UTN-FRA/programacion_1_laboratorio_1/Clase_02/apuntes/Primeros_Algoritmos/main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+
