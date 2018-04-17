@@ -1,0 +1,29 @@
+github.com/german2017
+
+Estructuras van en el .h
+
+
+Estructuras anidadas
+--------------------
+
+Usuario
+- int idUsuario
+- char[] email
+- char[] password
+- int idSerie
+- estado
+
+Serie
+- int idSerie
+- char[] nombre
+- int cantTemporadas
+- int anioLanzamiento
+- estado
+
+- ABM y mostrar Usuarios, Series.
+- Los datos de la serie que ve cada usuario.
+- Por cada serie, todos los usuarios que la ven.
+- Por cada serie, cuantos usuarios.
+
+Función para mostrar menu:
+msj -> mostrarMenu -> opcion
